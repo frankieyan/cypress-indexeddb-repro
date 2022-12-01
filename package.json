@@ -1,0 +1,16 @@
+{
+  "name": "cypress-indexeddb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open --e2e --browser=electron",
+    "cypress:run": "cypress run --browser=electron --headed"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "11.2.0",
+    "typescript": "4.9.3"
+  }
+}
