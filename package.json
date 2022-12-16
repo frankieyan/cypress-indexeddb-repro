@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cypress:open": "cypress open --e2e --browser=electron",
+    "cypress:open": "DEBUG=cypress:* cypress open --e2e --browser=electron",
     "cypress:run": "cypress run --browser=electron --headed"
   },
   "author": "",
