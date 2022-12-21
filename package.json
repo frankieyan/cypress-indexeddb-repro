@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "10.7.0",
+    "cypress": "https://cdn.cypress.io/beta/npm/10.8.1/linux-x64/matth/test/10.8.0-fix-df3484ba3a0e05d78f0781c144f470d50262283b/cypress.tgz",
     "typescript": "4.9.3"
   }
 }
